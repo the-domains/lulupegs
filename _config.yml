@@ -1,7 +1,7 @@
 name: LuluPegs
 favicon: null
-layout_spectrum: 0.9601
-typography_spectrum: 0.39976
+layout_spectrum: 0.3937524710781872
+typography_spectrum: 0.02553462330251932
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#fefef2'
-    - '#fd6b7b'
-    - '#d5cb74'
-    - '#614d00'
-  brandStrength: 0.625
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5821027415804565
   lightness: 0.5794384023174644
-  saturation: 0.5625
+  saturation: 0.21926919044926763
   rhythmicContrast: 0.8603342017158866
 purpose: []
